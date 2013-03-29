@@ -1,10 +1,7 @@
-#CSS3 YouTube Buttons#
+#Better Bourbon Button#
 
-CSS3 YouTube Buttons helps you easily create YouTube-style buttons from links, buttons, and inputs.
+Variable color buttons from links, buttons, and inputs.
 
-Examples: [lab.decaps.fr/css3-youtube-buttons/](http://lab.decaps.fr/css3-youtube-buttons/)
-
-**Note:** this framework allow to create buttons like they were before last (12/12) redesign of YouTube
 
 ###Browser compatibility###
 
@@ -18,4 +15,4 @@ Public domain: [http://unlicense.org/](http://unlicense.org/)
 
 ###Acknowledgements###
 
-Inspired by [Nicolas Gallagher](http://nicolasgallagher.com/)'s [CSS3 GitHub Buttons](http://github.com/necolas/css3-github-buttons).
+Code adapted *directly* from [Simon Lelorrain](http://me.decaps.fr)'s [CSS3 YouTube Buttons](http://lab.decaps.fr/css3-youtube-buttons/) , which were inspired by [Nicolas Gallagher](http://nicolasgallagher.com/)'s [CSS3 GitHub Buttons](http://github.com/necolas/css3-github-buttons).
